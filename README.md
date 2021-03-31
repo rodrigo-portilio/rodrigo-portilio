@@ -44,7 +44,7 @@ TypeScript / Angular
 ## Language (communication)
 
 - Portuguese (Native)
-- English (Begginer)
+- English (Beginner)
 
 ## Main interests / skills
 
