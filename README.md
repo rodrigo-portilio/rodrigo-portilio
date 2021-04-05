@@ -50,13 +50,6 @@ TypeScript / Angular
 
 - C#
 - .NET
-- Angular
-
-## Emotional Intelligence skills
-
-- Self Awareness
-- Self Management
-- Team Management
 
 ## Socials
 
