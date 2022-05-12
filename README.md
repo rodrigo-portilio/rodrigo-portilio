@@ -7,16 +7,13 @@
 
 ## About
 
-I'm from Brazil and live in Santa Catarina in south do country with my wife and my daughter.  
-I work with a focus as a back-end developer in applications web and I have +8 years of experience in developing systems.
-Actually, I work as head of software development using the methodology scrum.
+I work as a software developer have over 9 years, in this period I could work with applications on desktops and web applications looking for using the ever best patterns of the market, following clean code, layer separating and other patterns.
 
 My skills are in:
 
-**Languages / Frameworks:**  
+**Programming language  / Frameworks:**  
 
-C # / Asp.Net Core, Asp.Net MVC  
-TypeScript / Angular
+C # / Asp.Net Core, Asp.Net MVC 
 
 **Database:**
 
@@ -41,11 +38,6 @@ TypeScript / Angular
 - Kibana
 - ElasticSearch 
 
-## Language (communication)
-
-- Portuguese (Native)
-- English (Beginner)
-
 ## Main interests / skills
 
 - C#
@@ -54,5 +46,3 @@ TypeScript / Angular
 ## Socials
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-100%25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-santos-portilio/)](https://www.linkedin.com/in/rodrigo-santos-portilio/)
-
-[![Twitter](https://img.shields.io/twitter/follow/rodrigoportilio?color=1DA1F2&label=Twitter&logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/rodrigoportilio)
