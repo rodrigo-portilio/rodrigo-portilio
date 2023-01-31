@@ -1,19 +1,18 @@
-
-[<img src="https://www.codewars.com/users/rodrigoportilio/badges/micro" height="28px">](https://www.codewars.com/users/rodrigoportilio)
-
 ![rodrigoportilio](https://github-readme-stats.vercel.app/api?username=rodrigo-portilio&count_private=true)
 
 ![rodrigo-portilio](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-portilio&count_private=true&layout=compact&langs_count=8&hide=html,css)
 
 ## About
 
-I work as a software developer have over 9 years, in this period I could work with applications on desktops and web applications looking for using the ever best patterns of the market, following clean code, layer separating and other patterns.
+I have been working in software development for more than 10 years, in this period I could work with desktop applications, and web applications, always striving to use the best patterns and practices. Throughout my career, have had the opportunity to visit several clients to understand your necessity and with this knowledge have developed and modified software to answer the specific needs of businesses.
 
-My skills are in:
+## My skills are:
 
 **Programming language  / Frameworks:**  
 
-C # / Asp.Net Core, Asp.Net MVC 
+- C# / .NET 6, Asp.Net Core, Asp.Net MVC, .Net Framework 4.5
+- JS / Angular 2+
+- HTML, CSS
 
 **Database:**
 
@@ -23,12 +22,11 @@ C # / Asp.Net Core, Asp.Net MVC
 
 **Infrastructure:**
 
-- AWS
-- S3
-- EC2
+- AWS (S3, EC2, EKS, Lambda, SQS, API Gateway, CDN, RDS, Redis...)
 - Windows Server
 - Linux
 - Docker
+- Kubernetes
 
 **Tools:**
 
