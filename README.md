@@ -4,7 +4,7 @@
 
 ## About
 
-I have been working in software development for more than 10 years, in this period I could work with desktop applications, and web applications, always striving to use the best patterns and practices. Throughout my career, have had the opportunity to visit several clients to understand your necessity and with this knowledge have developed and modified software to answer the specific needs of businesses.
+I have been working as a Software Engineer for more than +10 years. During this time, I worked with desktop, and web applications, always striving to use the best patterns and practices. Throughout my career, I had the opportunity to visit several clients to understand their necessities and with the acquired knowledge I have developed and modified software meet specific needs of businesses.
 
 ## My skills are:
 
