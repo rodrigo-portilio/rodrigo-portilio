@@ -2,6 +2,8 @@
 
 ![rodrigo-portilio](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-portilio&count_private=true&layout=compact&langs_count=8&hide=html,css)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rodrigoportilio)](https://leetcode.com/rodrigoportilio)
+
 ## About
 
 I have been working as a Software Engineer for more than +10 years. During this time, I worked with desktop, and web applications, always striving to use the best patterns and practices. Throughout my career, I had the opportunity to visit several clients to understand their necessities and with the acquired knowledge I have developed and modified software meet specific needs of businesses.
