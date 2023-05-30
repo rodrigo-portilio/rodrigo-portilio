@@ -2,7 +2,7 @@
 
 ![rodrigo-portilio](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-portilio&count_private=true&layout=compact&langs_count=8&hide=html,css)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rodrigoportilio)](https://leetcode.com/rodrigoportilio)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/RodrigoPortilio?theme=wtf&font=Arimo)](https://leetcode.com/rodrigoportilio)
 
 ## About
 
